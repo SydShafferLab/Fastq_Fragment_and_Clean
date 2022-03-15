@@ -6,14 +6,13 @@ the Qscore threshold the remaining fragments are discarded.
 
 Example:
 
-### Seq 1
+Seq 1
 
 '_________________________________'
 
 
 
 ### fragment_1 fragment_2 fragment_3
-
 '__________ __________ __________'
 
 
