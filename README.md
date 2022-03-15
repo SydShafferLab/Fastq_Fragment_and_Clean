@@ -12,9 +12,9 @@ Seq 1
 
 
 
-fragment_1  fragment_2  fragment_3
+fragment_1     fragment_2     fragment_3
 
-'__________  __________  __________'
+'__________     __________     __________'
 
 
 If fragments 1 & 3 pass the Qscore threshold and fragment_2 fails then the modified sequence will be:
