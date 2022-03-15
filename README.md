@@ -26,4 +26,7 @@ Mod Seq_1
 
 '____________'
 
+fragment_1 - fragment_2 - fragment_3
+
+
 Only fragment_1 is kept. A summary.txt file is outputed with the mean, median and std of modified sequence length and Qscore.
