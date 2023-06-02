@@ -72,6 +72,9 @@ def fragment_and_filter_reads(input_folder, output_folder, what_read, file_name,
 	# Get all the Fastq files in the folder.
 	all_R = glob.glob(input_folder  + "*" + what_read + "*.fastq.gz")
 
+	if all_R == []:
+		raise ValueError("No files with specified what_read.")
+
 	# If file_name is not empty, then only process the specified files.
 	if file_name[0] != 'none':
 
