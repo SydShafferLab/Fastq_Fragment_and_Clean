@@ -1,10 +1,10 @@
 Summary of Fastq_sequence_fragment_and_clean.py
 
-fastq: /Users/raul/Documents/GitHub/Barcode_cut_length/test_data/Test1_gDNA_L001_R1_001.fastq
-       Sequence [bp] =   mean:19.99   median:20.00   std:0.36
-              Qscore =   mean:34.40   median:36.00   std:1.96
-
-fastq: /Users/raul/Documents/GitHub/Barcode_cut_length/test_data/Test2_gDNA_L001_R1_001.fastq
+fastq: Test2_gDNA_L001_R1_001.fastq.gz
        Sequence [bp] =   mean:19.99   median:20.00   std:0.28
-              Qscore =   mean:33.50   median:36.00   std:4.85
+              Qscore =   mean:33.31   median:36.00   std:4.84
+
+fastq: Test1_gDNA_L001_R1_001.fastq.gz
+       Sequence [bp] =   mean:19.99   median:20.00   std:0.36
+              Qscore =   mean:33.26   median:36.00   std:5.15
 
